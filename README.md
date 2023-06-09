@@ -1,6 +1,6 @@
 # Rally-X
 
-This is a submission for the CS2261 homework assignment. It is a recreation of the classic arcade game, Rally-X. This project explores the concepts and practices with Mode 0 on the GBA. Further details on the game mechanics, controls, and game summary can be found [here](./HW03%20Scaffold/README.md).
+This is a submission for the CS2261 homework assignment. It is a recreation of the classic arcade game, Rally-X. This project explores the concepts and practices with Mode 0 on the GBA. Further details on the game mechanics, controls, and game summary can be found [here](./HW05%20Scaffold/README.md).
 
 ## Project Setup
 This game was developed for the GBA. To run the game on a Mac or Windows device, the [mGBA emulator](https://mgba.io/) must first be installed. Then, download or clone the repository. Open the emulator, select `File > Load ROM`, and open the `HW05_LeiJason.zip` file. Alternatively, opening the `Project.gba` file in the `HW05 Scaffold` folder through the emulator will also work.
